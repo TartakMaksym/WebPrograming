@@ -1,0 +1,12 @@
+{
+  "name": "acoustic-watch-lab3",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Лабораторна робота №3 — адаптивна верстка Акустична варта",
+  "scripts": {
+    "sass": "sass --watch scss/main.scss:css/main.css"
+  },
+  "devDependencies": {
+    "sass": "^1.77.0"
+  }
+}
